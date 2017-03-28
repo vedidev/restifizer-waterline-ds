@@ -1,0 +1,44 @@
+{
+  "name": "restifizer-waterline-ds",
+  "version": "0.0.1",
+  "description": "Waterline Data Source for Restifizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedi/restifizer-waterline-ds.git"
+  },
+  "keywords": [
+    "node.js",
+    "rest",
+    "restful",
+    "restifizer",
+    "sails",
+    "sailsjs",
+    "waterline"
+  ],
+  "dependencies": {
+    "bluebird": "^3.1.5",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "eslint": "3.12.2",
+    "eslint-config-airbnb-base": "11.0.0",
+    "eslint-plugin-import": "2.2.0"
+  },
+  "author": {
+    "name": "Egor Pronin"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/vedi/restifizer-waterline-ds/issues"
+  },
+  "homepage": "https://github.com/vedi/restifizer-waterline-ds",
+  "dist": {
+    "shasum": "1297c801b1c7ea120e29ddf9a347afc4201bcdc6"
+  },
+  "gitHead": "852ab862040ac55560b3695b26b3c66b32ca0733",
+}
