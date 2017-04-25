@@ -1,6 +1,6 @@
 {
   "name": "restifizer-waterline-ds",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Waterline Data Source for Restifizer",
   "main": "index.js",
   "scripts": {
